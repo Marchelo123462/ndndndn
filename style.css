@@ -1,0 +1,4 @@
+html body{margin: 0; padding: 0; height: 100%}
+header {display: flex; align-items: center;}
+header{ position: fixed; top: 0; left: 0; width: 100%; display: flex; justify-content: space-between;align-items: center; padding: 40px; background-color: aqua;}
+body{padding: 160px;}
